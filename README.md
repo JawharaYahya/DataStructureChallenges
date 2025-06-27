@@ -46,6 +46,6 @@
 
 [reverse LinkedList](DataStructure/LinkedList/Linked-List-Implementation/Reverse/README.md)
 
-### challenge 2: Merge Sorted Lists
+### challenge 3: Merge Sorted Lists
 
 [merge Sorted Lists](DataStructure/LinkedList/Linked-List-Implementation/MergeSorted/README.md)
