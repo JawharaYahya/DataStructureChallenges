@@ -6,7 +6,7 @@
 
 
 
-![image of the code](whiteboared-challenges/ArrayReverse.JPG)
+![image of the code](ArrayReverse.JPG)
  
 # Challenge B: Most Frequent Number 
 
@@ -18,7 +18,7 @@
 
 ### If multiple numbers have the same highest frequency, return the first one encountered among them in the array.
 
-![image of the code](whiteboared-challenges/FindMaxnumber.JPG) 
+![image of the code](FindMaxnumber.JPG)
 
 
 # Challenge C: MinimumValue Challenge
@@ -27,25 +27,16 @@
 
 ### The challenge is to create a function named MinimumValue that takes an array of integers and returns the smallest number, without using any built-in methods.
 
-![image of the code](whiteboared-challenges/MinimumValue.JPG)
+![image of the code](MinimumValue.JPG)
+
+<<<<<<< HEAD
+# Challenge 03 Reverese Characters:
+
+[Reverese Characters README.md ](README.md)
+=======
 
 # Challenge 03: Reverse characters
 
-### click below 
-[Reverse characters README](Challenges/Reverse-Characters/README.md)
-
-# Challenge 04: Remove Middle Value
-
-[ Remove Middle Value READme](Challenges\RemoveMiddleIndex\README.md)
-
-# LinkedList challenges:
-### challenge 1: singly LinkedList 
-[singly LinkedList](DataStructure/LinkedList/Linked-List-Implementation/README.md) 
-
-### challenge 2: reverse linkedlist
-
-[reverse LinkedList](DataStructure/LinkedList/Linked-List-Implementation/Reverse/README.md)
-
-### challenge 2: Merge Sorted Lists
-
-[merge Sorted Lists](DataStructure/LinkedList/Linked-List-Implementation/MergeSorted/README.md)
+Click below
+[Reverse characters README](README.md)
+>>>>>>> origin/main
