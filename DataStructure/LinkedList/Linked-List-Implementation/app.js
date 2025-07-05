@@ -1,6 +1,24 @@
 const LinkedList = require("./linkedList");
 
 const list = new LinkedList();
+list.add(1);
+list.add(2);
+list.add(3);
+list.add(4);
+list.add(5);
+list.add(6);
+list.printList();
+list.rotateLinkedList(2);
+list.printList();
+
+list.clearList();
+list.add(5);
+list.add(10);
+list.add(15);
+list.add(20);
+list.printList();
+list.rotateLinkedList(1);
+list.printList();
 
 const list1 = new LinkedList();
 const list2 = new LinkedList();

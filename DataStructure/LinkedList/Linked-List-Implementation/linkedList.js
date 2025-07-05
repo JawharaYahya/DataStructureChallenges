@@ -136,5 +136,44 @@ remove(data){
          } 
             return merged;
             }
-  }
- module.exports= LinkedList;
+  
+  rotateLinkedList(k){
+    let head=this.head;
+    if(!head || !head.next) return head;
+    //measure length
+   let size= 0;
+    let temp=head;
+    while (temp) {
+    size++;
+    temp=temp.next;
+    }
+
+    k= k % size;
+    if (k === 0) return head;
+    if (k < 0) k= size+k;
+
+    let current=head;
+   for (let i = 1; i < k; i++) {
+    current=current.next;
+    
+   }
+  let newHead=current.next;
+   current.next=null;
+   let tail= newHead;
+   while(tail.next){
+    tail=tail.next;
+}
+tail.next=head;
+
+this.head=newHead; 
+
+return newHead;
+}
+clearList(){
+    //to clear the oldList
+this.head = null;
+this.size = 0;
+}
+}
+
+module.exports = LinkedList;

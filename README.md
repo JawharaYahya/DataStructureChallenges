@@ -36,7 +36,7 @@
 
 # Challenge 04: Remove Middle Value
 
-[ Remove Middle Value READme](Challenges\RemoveMiddleIndex\README.md)
+[ Remove Middle Value READme](Challenges/RemoveMiddleIndex/README.md)
 
 # LinkedList challenges:
 ### challenge 1: singly LinkedList 
@@ -49,3 +49,7 @@
 ### challenge 3: Merge Sorted Lists
 
 [merge Sorted Lists](DataStructure/LinkedList/Linked-List-Implementation/MergeSorted/README.md)
+
+### challenge 4: Rotate LinkedList by K
+
+[ Rotate LinkedList by K](DataStructure/LinkedList/Linked-List-Implementation/RotateLinkedList/README.md)
