@@ -10,14 +10,14 @@
 
 ## WhiteBoared
 
-![image of the whiteboared](/Docs/StackJPG.JPG)
+![image of the whiteboared](Docs/StackJPG.JPG)
 
 ## Console Output
 
-![image of the whiteboared](/Docs/StackOutput.JPG)
+![image of the whiteboared](Docs/StackOutput.JPG)
 ## Test terminal
 
-![image of the test](/Docs/testStack.JPG)
+![image of the test](Docs/testStack.JPG)
 
 ## A queue is a data structure that follows the First In First Out (FIFO) principle. This means that the first item added is the first one to be removed. It supports four main operations:
 
@@ -27,11 +27,11 @@
 ### **isEmpty()** to check if the queue is empty.
 
 ## WhiteBoared
-![image of the whiteboared](/Docs/QueueWhiteBored.JPG)
+![image of the whiteboared](Docs/QueueWhiteBored.JPG)
 
 ## Console Output
 
-![image of the whiteboared](/Docs/QueueOutput.JPG)
+![image of the whiteboared](Docs/QueueOutput.JPG)
 
 ## Test terminal
-![image of the whiteboared](/Docs/queueTesting.JPG)
+![image of the whiteboared](Docs/queueTesting.JPG)
