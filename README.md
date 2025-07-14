@@ -53,3 +53,7 @@
 ### challenge 4: Rotate LinkedList by K
 
 [ Rotate LinkedList by K](DataStructure/LinkedList/Linked-List-Implementation/RotateLinkedList/README.md)
+
+### Stack & Queue Challenge
+[StackandQueue](DataStructure\Stack-Queue\README.md)
+
