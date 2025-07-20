@@ -57,3 +57,5 @@
 ### Stack & Queue Challenge
 [StackandQueue](DataStructure/Stack-Queue/README.md)
 
+### Delete Middle Element of a Stack
+[StackandQueue](DataStructure/Stack-Queue/DeleteMiddleElement/README.MD)
