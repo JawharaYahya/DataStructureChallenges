@@ -4,11 +4,11 @@
 
 ## Whiteboared Image
 
-![image](/Stack-Queue/Docs/DeleteMidWhiteBoared.JPG)
+![image](../Docs/DeleteMidWhiteBoared.JPG)
 
 ## consloe log Image
-![image](/Stack-Queue/Docs/DeleteMiddleOutput.JPG)
+![image](../Docs/DeleteMiddleOutput.JPG)
 
 ## test cases terminal image
+![image](../Docs/deleteMidTest.JPG)
 
-![image](/Stack-Queue/Docs/deleteMidTest.JPG)
