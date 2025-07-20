@@ -1,6 +1,5 @@
 const Stack=require("./stack");
 const Queue=require("./queue");
-
 const stack = new Stack();
 
 stack.push(10);
@@ -27,6 +26,15 @@ console.log(queue.printQueue());
 console.log("Peek:",queue.peek());
 
 console.log("Is Empty:",queue.isEmpty());
+const stackDeleteMiddle=require("./DeleteMiddleElement/DeleteMiddleElement");
 
-
+const stackWithDelete= new stackDeleteMiddle();
+stackWithDelete.push(7);
+stackWithDelete.push(14);
+stackWithDelete.push(3);
+stackWithDelete.push(8);
+stackWithDelete.push(5);
+console.log(stackWithDelete.PrintStack());
+stackWithDelete.deleteMiddle();
+console.log(stackWithDelete.PrintStack());
 
