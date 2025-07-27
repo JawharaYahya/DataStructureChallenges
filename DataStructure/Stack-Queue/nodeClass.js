@@ -1,6 +1,7 @@
 class Node {
-    constructor(data) {
+    constructor(data,min) {
         this.data=data;
+        this.min=min;
         this.next=null;
     }
 }
