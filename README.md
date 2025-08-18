@@ -61,4 +61,4 @@
 [StackandQueue](DataStructure/Stack-Queue/DeleteMiddleElement/README.MD)
 
 ### BinaryTree and BinarySearchTree Implementation
-[BTandBST](DataStructure/trees/treeImplementation/README.md)
+[BTandBST](DataStructure/Trees/TreeImplementation/README.md)
