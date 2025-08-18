@@ -16,3 +16,5 @@ tree.inOrder(tree.root);
 
 console.log("PostOrder Traversal");
 tree.postOrder(tree.root);
+
+tree.printHierarchy();
