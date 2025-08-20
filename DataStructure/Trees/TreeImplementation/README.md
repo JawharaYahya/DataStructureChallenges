@@ -30,3 +30,24 @@
 
 ## Test terminal capture
 ![terminalTest](./docs/testConsoleBT.JPG)
+
+## Binary Search Tree:
+
+### It's a type of Binary Tree where All values in the left subtree are smaller than the node’s value and All values in the right subtree are greater than the node’s value.
+
+### In this assignment, I implemented a Binary Search Tree class with methods to:
+
+- Add new values into the tree.
+
+- Check if a value exists in the tree.
+
+- Remove a node with the specific value while maintaining the BST proprties
+
+## Whiteboard challenge solution
+![fullwhiteboard](./docs/BSTwhiteboared.JPG)
+
+## consolelog capture
+![consolelog](./docs/BSToutput.JPG)
+
+## Test terminal capture
+![terminalTest](./docs/bstTest.JPG)
