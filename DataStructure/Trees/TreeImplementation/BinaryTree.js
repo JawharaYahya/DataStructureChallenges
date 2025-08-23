@@ -90,5 +90,29 @@ buildLevels() {
 
   return levels;
 }
+FindSecondMax(){
+  if (!this.root) return null;
+  if (!this.root.left && !this.root.right) return null; //only one node
+
+  let max= null;
+  let secondMax =null;
+
+const helperTraverse= (node)=>{
+if(!node) return null;
+if( max === null || node.value>max){
+  secondMax=max;
+  max=node.value;
+  }
+else if ((secondMax===null || node.value>secondMax) && node.value<max)
+  {
+secondMax=node.value;
+  }
+ helperTraverse(node.left);
+ helperTraverse(node.right);
+};
+helperTraverse(this.root)
+return secondMax;
 }
+}
+
 module.exports=BinaryTree;

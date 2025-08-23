@@ -1,5 +1,6 @@
 const BinaryTree= require('./BinaryTree');
 const BinarySearchTree=require('./BinarySearchTree');
+
 const tree = new BinaryTree(10);
 
 tree.insert(20);
@@ -28,6 +29,23 @@ console.log(bst.contains(7));
 
 bst.remove(5);
 console.log(bst.contains(5));
+
+const BTree= new BinaryTree();
+const Node=require('./TNode');
+BTree.root= new Node(10);
+BTree.root.left= new Node(5);
+BTree.root.right= new Node(20);
+BTree.root.left.left= new Node(3);
+BTree.root.left.right= new Node(7);
+BTree.root.right.left= new Node(15);
+BTree.root.right.right= new Node(25);
+
+let SecondMax= BTree.FindSecondMax();
+console.log(SecondMax);
+
+
+
+
 
 
 
