@@ -62,3 +62,6 @@
 
 ### BinaryTree and BinarySearchTree Implementation
 [BTandBST](DataStructure/Trees/TreeImplementation/README.md)
+
+### Find Second Maximum in a Binary Tree
+[SecondMaxBT](DataStructure/Trees/TreeImplementation/SecondMaxValue/README.md)
