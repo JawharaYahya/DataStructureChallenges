@@ -113,6 +113,24 @@ secondMax=node.value;
 helperTraverse(this.root)
 return secondMax;
 }
+
+LeafSum(){
+  if(!this.root) return 0;
+  let sum=0;
+  const helper=(node)=>{
+    if (!node) return;
+    if (!node.left && !node.right){
+      sum+=node.value;
 }
+  helper(node.left);
+            helper(node.right);
+        };
+
+        helper(this.root);
+        return sum;
+    }
+  }
+
+
 
 module.exports=BinaryTree;
