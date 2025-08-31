@@ -65,3 +65,7 @@
 
 ### Find Second Maximum in a Binary Tree
 [SecondMaxBT](DataStructure/Trees/TreeImplementation/SecondMaxValue/README.md)
+
+### Binary Tree- Sum of leaf nodes
+[SecondMaxBT](DataStructure/Trees/TreeImplementation/LeafSum/README.md)
+
